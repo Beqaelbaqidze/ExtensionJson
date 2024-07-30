@@ -1,0 +1,13 @@
+{
+    "programs": [
+      {
+        "id": "program1",
+        "name": "Software A"
+      },
+      {
+        "id": "program2",
+        "name": "Software B"
+      }
+    ]
+  }
+  
